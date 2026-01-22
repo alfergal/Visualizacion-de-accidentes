@@ -1,2 +1,0 @@
-proj-bin
-proj-data
