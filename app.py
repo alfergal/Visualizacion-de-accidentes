@@ -581,7 +581,7 @@ with tab_gen2:
     <div style="background-color: #262730; padding: 15px; border-radius: 8px; border-left: 5px solid GoldenRod; color: Gainsboro;">
         <h5 style="margin: 0 0 10px 0; color: GoldenRod; font-size: 1rem;">Interpretación demográfica</h5>
         <ul style="font-size: 0.9rem; line-height: 1.6; color: LightGray; margin-bottom: 0;">
-            <li><Pico laboral (25-45 años): El grueso de la siniestralidad ocurre en edad activa probablemente en desplazamientos al trabajo.</li>
+            <li>Pico laboral (25-45 años): El grueso de la siniestralidad ocurre en edad activa probablemente en desplazamientos al trabajo.</li>
             <li>Los mayores (>65 años): Sufren una incidencia desproporcionada, casi siempre asociada a atropellos graves.</li>
         </ul>
     </div>
